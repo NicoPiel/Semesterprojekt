@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Semesterprojekt" />
         <module name="mk_se1_ss20_Team38" />
         <module name="semesterprojekt" />
       </profile>
